@@ -8,13 +8,6 @@ public class B {
     public static void main(String[] args) {
 
         System.out.println("main方法");
-        B b = new B();
-        B b1 = new B();
-        B b2= new B();
-        B b3 = new B();
-        B b3 = new B();
-        B b3 = new B();
-        B b3 = new B();
-        System.out.println("master分支提交");
+        截肢留个脚印 花木成畦手自栽 ；
     }
 }
