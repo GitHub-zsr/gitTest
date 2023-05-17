@@ -18,5 +18,6 @@ public class B {
         System.out.println("冲突问题可能 存在");
         System.out.println("冲突问题存在不");
         System.out.println("push github");
+        System.out.println("pull");
     }
 }
