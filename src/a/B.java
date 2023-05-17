@@ -15,5 +15,6 @@ public class B {
         B b3 = new B();
         B b3 = new B();
         B b3 = new B();
+        System.out.println("master分支提交");
     }
 }
