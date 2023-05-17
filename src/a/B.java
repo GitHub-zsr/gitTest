@@ -10,5 +10,10 @@ public class B {
         System.out.println("main方法");
 
         System.out.println("hi");
+        System.out.println("hi");
+        System.out.println("hi");
+        System.out.println("hi");
+        System.out.println("hi");
+        System.out.println("hi");
     }
 }

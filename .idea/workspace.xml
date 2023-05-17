@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ebfbda3-347e-4c91-88dd-a1dddb79d606" name="Changes" comment="" />
+    <list default="true" id="2ebfbda3-347e-4c91-88dd-a1dddb79d606" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/a/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a/B.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +15,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="b4a1d7b66d728a708feb45f361a4f0e551d696e0" />
+        <entry key="$PROJECT_DIR$" value="ff36b6e4ecbc1a15dbe94a75900d37299661ec5b" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -50,10 +52,35 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.B" />
+        <item itemvalue="Application.B" />
+        <item itemvalue="Application.B" />
+        <item itemvalue="Application.B" />
       </list>
     </recent_temporary>
   </component>
   <component name="TaskManager">
+    <task id="LOCAL-00001" summary="分支3">
+      <created>1684285870488</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684285870488</updated>
+    </task>
+    <task id="LOCAL-00002" summary="分支3">
+      <created>1684285986558</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684285986558</updated>
+    </task>
+    <task id="LOCAL-00003" summary="分支3">
+      <created>1684286080568</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684286080568</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -78,5 +105,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="分支3" />
+    <option name="LAST_COMMIT_MESSAGE" value="分支3" />
   </component>
 </project>
